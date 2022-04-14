@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "CAR REPAIR",
+        "description": "Description of service",
+        "price": 300,
+        "img": "https://marketingworks.vn/storage/logo_company/1593488098_265.png"
+    },
+    {
+        "id": 2,
+        "name": "CAR REPAIR",
+        "description": "Description of service",
+        "price": 300,
+        "img": "https://marketingworks.vn/storage/logo_company/1593488098_265.png"
+    },
+    {
+        "id": 3,
+        "name": "CAR REPAIR",
+        "description": "Description of service",
+        "price": 300,
+        "img": "https://marketingworks.vn/storage/logo_company/1593488098_265.png"
+    },
+    {
+        "id": 4,
+        "name": "CAR REPAIR",
+        "description": "Description of service",
+        "price": 300,
+        "img": "https://marketingworks.vn/storage/logo_company/1593488098_265.png"
+    },
+    {
+        "id": 5,
+        "name": "CAR REPAIR",
+        "description": "Description of service",
+        "price": 300,
+        "img": "https://marketingworks.vn/storage/logo_company/1593488098_265.png"
+    },
+    {
+        "id": 6,
+        "name": "CAR REPAIR",
+        "description": "Description of service",
+        "price": 300,
+        "img": "https://marketingworks.vn/storage/logo_company/1593488098_265.png"
+    }
+]
